@@ -39,7 +39,7 @@ Child = daughter, son, stepdaughter, stepson<br>
 Some children travelled only with a nanny, therefore parch=0 for them.<br>
 
 <h2> What can you contribute to the repository ?</h2>
-This is a classification problem, you can use various Machine Learning classification Algorithms to improve the accuracy of the model. You can also add various data visualizations to understand the given data.
+This is a classification problem, you can use various Machine Learning classification algorithms to improve the accuracy of the model. You can also add various data visualizations to understand the given data.
 
 <h2> How to contribute to this repository ?</h2>
 <ol>
