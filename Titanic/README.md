@@ -13,15 +13,10 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 <h2> Data </h2>
 
-The data has been split into two groups:
-<ul>
-  <li>training set (train.csv)</li>
-  <li>test set (test.csv)</li>
-</ul>
+Split the data into training and testing data in any proportion that you wish (80-20 is recommended)
 
-The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic.
+The test set should be used to see how well your model performs on unseen data. For the test set. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic.
 
-We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
 
 <a href="https://ibb.co/ykJQdFS"><img src="https://i.ibb.co/VC8qJYm/image.png" alt="Data" border="0"></a>
 
@@ -55,7 +50,7 @@ This is a classification problem, you can use various Machine Learning classific
   ```
   git clone http://github.com/{your_username}/HacktoberFest-AI-ML
   ```
-  <li> Go to the Titanic/Solution upload a .ipynb or .py file in the Solution for the given problem statement. </li>
+  <li> Go to the Titanic/Solution upload a .ipynb or .py file in the Solution for the given problem statement. Upload the training and testing dataset for your solution in csv format </li>
   <li> Add the files you want to commit to the staging area. </li>
   
   ```
